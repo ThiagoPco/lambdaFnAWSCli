@@ -1,0 +1,30 @@
+{
+  "name": "custommessagecognitoforgotpass",
+  "version": "1.0.0",
+  "description": "Customize the email message of AWS Cognito to 'Forgot  Password' action.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoPco/lambdaFnAWSCli.git"
+  },
+  "keywords": [
+    "AWS",
+    "AWS",
+    "CLI",
+    "CLI",
+    "Lambda",
+    "Function",
+    "Cognito",
+    "Forgot",
+    "Password"
+  ],
+  "author": "Thiago Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoPco/lambdaFnAWSCli/issues"
+  },
+  "homepage": "https://github.com/ThiagoPco/lambdaFnAWSCli#readme"
+}
